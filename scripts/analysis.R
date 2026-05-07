@@ -29,7 +29,7 @@ options(scipen = 999)
 # DATA LOADING
 
 # Load dataset
-df = read.csv('/Users/alfredwilliamjulianto/Library/Mobile Documents/com~apple~CloudDocs/APU/Sem3/Programming for Data Analysis/Coursework Question Paper(s) and Answer Scripts -20250926/UNSW-NB15_uncleaned.csv')
+df = read.csv('data/UNSW-NB15_uncleaned.csv')
 
 # Check the dataset structure
 str(df)
