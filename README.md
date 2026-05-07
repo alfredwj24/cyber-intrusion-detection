@@ -31,12 +31,15 @@ The core research focus is on how **connection duration (dur)** and
 ---
 
 ## 📂 Project Structure
+
+```
 cyber-intrusion-detection/
 ├── data/                        ← Place dataset here (not uploaded, see below)
 ├── scripts/
 │   └── analysis.R               ← Main R analysis script
 ├── .gitignore
 └── README.md
+```
 
 ---
 
